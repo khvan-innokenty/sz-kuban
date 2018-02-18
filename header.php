@@ -29,7 +29,7 @@
                 <a class="header__logo" href="/"><img src="/img/sogaz-medicine.svg?v=2"></a>
             </div>
             <div class="header__cell mobile-menu__nav js-mobile-nav">
-                <form action="/search/" method="get" class="search">
+                <form action="/search/" method="get" class="search search--right">
                     <div class="search__input__wrapper">
                         <?=inline_svg('search')?>
                         <input type="text" name="q" placeholder="Поиск по сайту" class="search__input">

@@ -136,6 +136,11 @@
                 </li>
             </ul>
 
+            <h2>Полный прайслист</h2>
+            <ul class="downloads">
+                <li><a href="#" class="downloads__item">Скачать полный прайс-лист</a></li>
+            </ul>
+
         </div>
     </div>
 

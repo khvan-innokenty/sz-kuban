@@ -10,7 +10,7 @@
                 <li><a href="#" class="tags__item"><span>Новости</span></a></li>
                 <li><a href="#" class="tags__item"><span>Научные публикации</span></a></li>
                 <li><a href="#" class="tags__item"><span>Статьи</span></a></li>
-                <li><a href="#" class="tags__item"><span>Корпоративная газета</span></a></li>
+                <li><a href="/publications5.php" class="tags__item"><span>Корпоративный вестник</span></a></li>
             </ul>
 
             <div class="publication">

@@ -34,6 +34,19 @@
                 <!-- <a href="/department.php" class="departments__link"><span class="text">Аптека</span></a> -->
             </div>
 
+            <div class="stars-promo">
+                <img src="/bitrix/templates/sogaz/img/pulse.svg" class="stars-promo__pulse">
+                <img src="/bitrix/templates/sogaz/img/doctors.png" class="stars-promo__doctors">
+                <div class="stars-promo__inner">
+                    <h2 class="stars-promo__header">Медицинская помощь мирового класса</h2>
+                    <div class="stars-promo__body">
+                        <p>Признанные врачи России и всего мира принимают в Геленджике.</p>
+                        <p>Всего несколько дней в году.</p>
+                    </div>
+                    <a href="/stars.php" class="button">Посмотреть расписание</a>
+                </div>
+            </div>
+
             <div class="combo-box">
                 <div class="combo-box__about__header">
                     <h2>О центре</h2>
